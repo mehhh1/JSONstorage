@@ -21,6 +21,13 @@
     "foods": {
       "likes": ["mice"],
       "dislikes": ["cookies"]
+    },
+    {
+      "name": "Beelzebub",
+      "species": "demon",
+      "foods": {
+        "likes": ["humans, the souls of the damned"]
+        "dislikes": "any normal human food"                }
     }
   }
 ]
