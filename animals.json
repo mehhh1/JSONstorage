@@ -26,8 +26,8 @@
       "name": "Beelzebub",
       "species": "demon",
       "foods": {
-        "likes": ["humans, the souls of the damned"]
-        "dislikes": "any normal human food"                }
+        "likes": ["humans, the souls of the damned"],
+        "dislikes": "any normal human food" }
     }
   }
 ]
